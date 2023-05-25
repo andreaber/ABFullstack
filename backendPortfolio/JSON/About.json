@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Andrea Berardi",
+        "profession": "Full Stack Developer",
+        "photo": "",
+        "about_me": "Soy una apasionada de las tecnologías, me encanta el desarrollo backend y creo firmemente en el poder de la colaboración y el trabajo en equipo para crear soluciones que mejoren la vida de las personas.",
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "NodeJS",
+            "ReactJS",
+            "Angular",
+            "MySQL",
+            "MongoDB"
+        ]
+    }
+]

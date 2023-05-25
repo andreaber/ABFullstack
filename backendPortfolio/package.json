@@ -1,0 +1,21 @@
+{
+  "name": "backendportfolio",
+  "version": "1.0.0",
+  "description": "Portfolio personal para mostrar mis habilidades y proyectos como desarrollador fullstack",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Andrea Berardi",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
